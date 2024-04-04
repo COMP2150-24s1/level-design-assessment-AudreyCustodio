@@ -37,7 +37,7 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-| First Header  | Second Header | Second Header |
+| First Header  | Second Header | Third Header |
 | ------------- | ------------- | ------------- |
 | ![This is the alt text for an image!](DocImages/exampleimage.png)  | ![This is the alt text for an image!](DocImages/exampleimage.png)  | ![This is the alt text for an image!](DocImages/exampleimage.png)  |
 
