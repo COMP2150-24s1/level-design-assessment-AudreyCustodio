@@ -49,13 +49,13 @@ You should restructure the headings below to match the order they appear in your
 | ![2.1 Panel 1](DocImages/Storyboards/Slide1.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide2.PNG)  | ![2.1 Panel 3](DocImages/Storyboards/Slide3.PNG) 
 | The player is trapped in a room with a destructible column blocking the exit. | The player picks up the staff. | The player uses the staff to break the destructible column to exit and progress. They have now learned that the staff can be used to break certain things. |
 ### 2.2 Chompers
-| Panel 1 | Panel 2 | Panel 3 |
+| Panel 1 | Panel 2 |  |
 | :------------- | :------------- | :------------- |
-| ![2.1 Panel 1](DocImages/Storyboards/Slide4.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide5.PNG)  | ![2.1 Panel 3](DocImages/Storyboards/Slide6.PNG) 
-| The player is trapped in a room with a destructible column blocking the exit. | The player picks up the staff. | The player uses the staff to break the destructible column to exit and progress. They have now learned that the staff can be used to break certain things. |
-| Panel 4 | Panel 5 | Panel 6 |
-| ![2.1 Panel 1](DocImages/Storyboards/Slide7.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide8.PNG)  | ![2.1 Panel 3](DocImages/Storyboards/Slide9.PNG) 
-| The player is trapped in a room with a destructible column blocking the exit. | The player picks up the staff. |
+| ![2.1 Panel 1](DocImages/Storyboards/Slide4.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide5.PNG)  | 
+| The player sees the chomper at a distance. Similar to breaking a destructible column, players can “break” an enemy, such as the chomper,  the same way. | A chomper sees the player in sight and then pursues them, intending to attack. | 
+| Panel 3 - Player response 1 | Panel 4 - Player response 2 | Panel 5 - Player response 3 |
+| ![2.1 Panel 1](DocImages/Storyboards/Slide8.PNG) | ![2.1 Panel 3](DocImages/Storyboards/Slide6.PNG)   | ![2.1 Panel 3](DocImages/Storyboards/Slide7.PNG) 
+| Players may use the staff to defend themselves as a reflex gained from breaking the destructible column earlier. | They may also jump over the enemy. An ample amount of space above the player is made to accommodate jumping. | Alternatively, if they fail to react in time, they may be damaged by the chomper. |
 ### 2.3 Pass-through Platforms, Switches and Trigger Doors
 ### 2.4 Spikes and Health Pickups
 ### 2.5 Acid, Moving Platforms, Checkpoints, and Weapon Pickup (Gun)
