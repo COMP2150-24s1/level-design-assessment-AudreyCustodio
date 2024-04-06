@@ -44,8 +44,9 @@ You should restructure the headings below to match the order they appear in your
 | Description 1 | Description 2 | Description 1 | Description 2 |
 
 ### 2.1 Weapon Pickup (Staff) and Destructible Column
-| ![2.1 Panel 1](DocImages/Storyboards/Slide1.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide2.PNG)  | ![2.1 Panel 3](DocImages/Storyboards/Slide3.PNG) 
+| Description 1 | Description 2 | Description 1 |
 | :------------- | :------------- | :------------- |
+| ![2.1 Panel 1](DocImages/Storyboards/Slide1.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide2.PNG)  | ![2.1 Panel 3](DocImages/Storyboards/Slide3.PNG) 
 | The player is trapped in a room with a destructible column blocking the exit. | The player picks up the staff. | The player uses the staff to break the destructible column to exit and progress. They have now learned that the staff can be used to break certain things. |
 ### 2.2 Chompers
 ### 2.3 Pass-through Platforms, Switches and Trigger Doors
