@@ -39,8 +39,9 @@ You should restructure the headings below to match the order they appear in your
 
 | ![This is the alt text for an image!](DocImages/exampleimage.png) | ![This is the alt text for an image!](DocImages/exampleimage.png)  | ![This is the alt text for an image!](DocImages/exampleimage.png) | ![This is the alt text for an image!](DocImages/exampleimage.png) |
 | ------------- | ------------- | ------------- | ------------- |
+| Description 1 | Description 2 | Description 1 | Description 2 |
 | ![This is the alt text for an image!](DocImages/exampleimage.png)  | ![This is the alt text for an image!](DocImages/exampleimage.png)  | 
-| Description 1 | Description 2 |
+| Description 1 | Description 2 | Description 1 | Description 2 |
 
 ### 2.1 Weapon Pickup (Staff) and Destructible Column
 ### 2.2 Chompers
