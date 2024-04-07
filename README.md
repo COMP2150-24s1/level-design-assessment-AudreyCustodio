@@ -128,9 +128,13 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ![Molecule Diagram](DocImages/Maps/molecule-diagram.png)
+
 *note this isn't representative of the final level design
 
 ### 3.2. Level Map - Sections 1, 2, and 3 (labelled)
+**Key**
+
+![Map key](DocImages/Maps/key-grid-map.png)
 | Map with paths | Map without paths |
 | ------------- | ------------- |
 | ![Map 1](DocImages/Maps/grid-level-map.png) | ![Map 2](DocImages/Maps/grid-level-map-plain.png)  | 
