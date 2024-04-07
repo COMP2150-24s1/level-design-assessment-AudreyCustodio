@@ -142,9 +142,9 @@ No additional words are necessary for this section (any words should only be wit
 To start, I put a lot of my ideas on paper to help me work through different concepts and see how the player could navigate these aspects of a level. Once they were all laid out, I began to see how they could be pieced together and flow into one another. 
 | Idea 1 | Idea 2 | Idea 3 |
 | :------------- | :------------- | :------------- |
-| ![2.5 Panel 1](DocImages/Paper/pap1.png) | ![2.5 Panel 2](DocImages/Paper/pap2.png)  | ![2.5 Panel 2](DocImages/Paper/pap3.png)  | 
+| ![Idea 1](DocImages/Paper/pap1.jpg) | ![Idea 2](DocImages/Paper/pap2.jpg)  | ![Idea 3](DocImages/Paper/pap3.jpg)  | 
 | **Idea 4** | **Idea 5** | **Idea 6** |
-| ![2.5 Panel 3](DocImages/Paper/pap4.png) | ![2.5 Panel 4](DocImages/Paper/pap5.png)   | ![2.5 Panel 5](DocImages/Paper/pap6.png) |
+| ![Idea 4](DocImages/Paper/pap4.jpg) | ![Idea 5](DocImages/Paper/pap5.jpg)   | ![Idea 6](DocImages/Paper/pap6.jpg) |
 **Initial Level Map**
 While I had initially thought about a left-to-right format for my level, I wanted to try a semi-linear format where the player would have to go in all sorts of directions. This was mainly because I wanted to have a better sense of exploration in my game’s level design. 
 
