@@ -58,8 +58,8 @@ For Section 3, I really wanted to explore this idea of a level that’s easy to 
 
 In the first section, I didn’t want the player to just move in one direction. To get a better sense of exploration, I wanted the player to go back and forth between places and invite the player to explore and take note of distinct landmarks.
 
-I believe the most distinct parts of this section are the parts that gate progression to the next section, Section 2. Which is the trigger door on the left and the acid pool to the right. 
-By gating parts of the section, I invite the player to explore and find out how to get past the trigger door and gate.
+I believe the most distinct parts of this section are the parts that gate progression to the next section. Which is the trigger door on the left and the acid pool to the right. 
+By gating parts of the section, I invite the player to explore as they try to find out how to get past the trigger door and acid pool.
 
 ![Gate Progression](DocImages/GameScreenshots/gate.png)
 
