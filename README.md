@@ -140,6 +140,13 @@ No additional words are necessary for this section (any words should only be wit
 ## 4. Iterative Design (~400 words)
 **Idea generation on paper**
 To start, I put a lot of my ideas on paper to help me work through different concepts and see how the player could navigate these aspects of a level. Once they were all laid out, I began to see how they could be pieced together and flow into one another. 
+| Idea 1 | Idea 2 | Idea 3 |
+| :------------- | :------------- | :------------- |
+| ![2.5 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.5 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.5 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
+| The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
+| **Idea 4** | **Idea 5** | **Idea 6** |
+| ![2.5 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.5 Panel 5](DocImages/Storyboards/Slide20.PNG) |
+| Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
 
 **Initial Level Map**
 While I had initially thought about a left-to-right format for my level, I wanted to try a semi-linear format where the player would have to go in all sorts of directions. This was mainly because I wanted to have a better sense of exploration in my game’s level design. 
