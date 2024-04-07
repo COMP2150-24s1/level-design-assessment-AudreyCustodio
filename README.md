@@ -127,11 +127,13 @@ No additional words are necessary for this section (any words should only be wit
  
 ### 3.1. Molecule Diagram
 
-### 3.2. Level Map – Section 1
+![Molecule Diagram](DocImages/Maps/molecule-diagram.png)
+*note this isn't representative of the final level design
 
-### 3.3.	Level Map – Section 2
-
-### 3.4.	Level Map – Section 3
+### 3.2. Level Map - Sections 1, 2, and 3 (labelled)
+| Map with paths | Map without paths |
+| ------------- | ------------- |
+| ![Map 1](DocImages/Maps/grid-level-map.png) | ![Map 2](DocImages/Maps/grid-level-map-plain.png)  | 
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
