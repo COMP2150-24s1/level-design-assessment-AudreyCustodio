@@ -23,7 +23,7 @@ Through this level design, I believe the player engages in the experience of dis
 
 | Switch needs to be shot with gun | Gain gun here, shoot switch with gun |
 | ------------- | ------------- |
-| ![Gun needed](DocImages/GameScreenshots/Gun.png) | ![Gun encounter](DocImages/GameScreenshots/Gun2.png)  | 
+| ![Gun needed](DocImages/GameScreenshots/Gun2.png) | ![Gun encounter](DocImages/GameScreenshots/Gun.png)  | 
 
 ### 1.2. Drama
 **Section 1 - Falling**
