@@ -102,7 +102,7 @@ I placed two routes for the player, one easy and the other challenging. They bot
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
 | ![2.2 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.2 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.2 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
-| The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. | They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
+| The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
 | **Panel 4** | **Panel 5** | **Panel 6** |
 | ![2.2 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.2 Panel 5](DocImages/Storyboards/Slide20.PNG) |
 | Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
