@@ -83,14 +83,23 @@ I placed two routes for the player, one easy and the other challenging. They bot
 ### 2.2 Chompers
 | Panel 1 | Panel 2 |  |
 | :------------- | :------------- | :------------- |
-| ![2.1 Panel 1](DocImages/Storyboards/Slide4.PNG) | ![2.1 Panel 2](DocImages/Storyboards/Slide5.PNG)  | 
+| ![2.2 Panel 1](DocImages/Storyboards/Slide4.PNG) | ![2.2 Panel 2](DocImages/Storyboards/Slide5.PNG)  | 
 | The player sees the chomper at a distance. Similar to breaking a destructible column, players can “break” an enemy, such as the chomper,  the same way. | A chomper sees the player in sight and then pursues them, intending to attack. | 
 | **Panel 3 - Player response 1** | **Panel 4 - Player response 2** | **Panel 5 - Player response 3** |
-| ![2.1 Panel 1](DocImages/Storyboards/Slide8.PNG) | ![2.1 Panel 3](DocImages/Storyboards/Slide6.PNG)   | ![2.1 Panel 3](DocImages/Storyboards/Slide7.PNG) 
+| ![2.2 Panel 3](DocImages/Storyboards/Slide8.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide6.PNG)   | ![2.2 Panel 5](DocImages/Storyboards/Slide7.PNG) 
 | Players may use the staff to defend themselves as a reflex gained from breaking the destructible column earlier. | They may also jump over the enemy. An ample amount of space above the player is made to accommodate jumping. | Alternatively, if they fail to react in time, they may be damaged by the chomper. |
 ### 2.3 Pass-through Platforms, Switches and Trigger Doors
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.3 Panel 1](DocImages/Storyboards/Slide9.PNG) | ![2.3 Panel 2](DocImages/Storyboards/Slide10.PNG)  | ![2.3 Panel 3](DocImages/Storyboards/Slide11.PNG) 
+| The player is trapped again, and the only way out is by activating the switch to open the door. | Have it so the player can only get to the switch through the pass-through platform, block off anywhere else. | By activating the switch, the player will be able to open the door right next to it, so there is a direct correlation between the door and the switch for the player. |
 ### 2.4 Spikes and Health Pickups
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.4 Panel 1](DocImages/Storyboards/Slide12.PNG) | ![2.4 Panel 2](DocImages/Storyboards/Slide13.PNG)  | ![2.4 Panel 3](DocImages/Storyboards/Slide14.PNG) 
+| The player will fall down into spikes. | Once the player is damaged from the spikes, health pick-ups will be nearby. | The player will gain 1 health point by picking it up. |
 ### 2.5 Acid, Moving Platforms, Checkpoints, and Weapon Pickup (Gun)
+
 ### 2.6 Keys
 ### 2.7 Spitters
 
