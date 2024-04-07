@@ -150,7 +150,7 @@ To start, I put a lot of my ideas on paper to help me work through different con
 
 **Initial Level Map**
 
-While I had initially thought about a left-to-right format for my level, I wanted to try a semi-linear format where the player would have to go in all sorts of directions. This was mainly because I wanted to have a better sense of exploration in my game’s level design. 
+While I had initially thought about a left-to-right format for my level, I wanted to try a semi-linear format where the player would have to go in all sorts of directions. This was mainly because I wanted to have a better sense of exploration in my game’s level design. Trying out this simple layout in the tilemap editor gave me a good foundation to work upon.
 
 ![Initial Map](DocImages/Maps/initial-layout.png)
 
