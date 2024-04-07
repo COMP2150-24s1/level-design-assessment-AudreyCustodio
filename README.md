@@ -65,7 +65,7 @@ By gating parts of the section, I invite the player to explore as they try to fi
 
 **Section 2 - Two paths**
 
-I wanted this section to be a bit less linear than the first section, which has optional routes. Multiple paths can give players a sense of freedom. When they’re able to make their own choices, they’re more likely to be invested in the outcomes of those choices and the journey to reaching these destinations while exploring.
+I wanted this section to be a bit less linear than the first section, by giving it optional routes. Multiple paths can give players a sense of freedom. When they’re able to make their own choices, they’re more likely to be invested in the outcomes of those choices and the journey to reaching these destinations while exploring.
 
 I placed two routes for the player, one easy and the other challenging. They both require the player to navigate large spaces through platforming, making it engaging to move around and explore.
 
