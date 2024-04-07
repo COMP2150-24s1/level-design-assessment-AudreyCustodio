@@ -3,32 +3,62 @@
 ### Name: Audrey Custodio
 ### Student number: 47301414
 
-This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
-
-Your document must include images. To insert an image into your documentation, place it in the "DocImages" folder in this repo, then place the below text where you want the image to appear:
-
-```
-![Place any alt text here](DocImages/<IMAGE NAME AND FILE EXTENSION>)
-```
-
-Example:
-
-![This is the alt text for an image!](DocImages/exampleimage.png)
-
 ## 1. Player Experience (~700 words)
-Outline and justify how your level design facilitates the core player experience goals outlined in the assignment spec. Each section should be supported by specific examples and screenshots of your game encounters that highlight design choices made to facilitate that particular experience.
-
 ### 1.1. Discovery
-What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
+**Discovering the mechanics of the weapons**
+**Section 1 - Staff**
+At the start of the level, I intentionally put the destructible column and chomper next to each other. The purpose of this was so that the player recognises that the staff can be used to destroy things. If it can destroy a destructible column, it would be reasonable to propose that it can also destroy a chomper. By forcing the player to break the destructible column with the staff to progress, it is ensured that they learn this mechanic.
+
+![Staff encounter](DocImages/GameScreenshots/Staff.PNG)
+
+**Section 1 - Gun**
+I wanted the player to discover they can use the gun on switches. To achieve this, I presented a problem for the player: a switch that can’t be walked through or jumped to. They will need to find an alternative way of flipping the switch. This is present in two areas of Section 1 and is used to gate progression before the player learns the gun’s mechanics. 
+By again trapping the player in a room, they discover that the gun can be used to shoot switches. 
+They may then recognise the placement of the switch being similar to the one in the other room, and then use the gun there.
+Through this level design, I believe the player engages in the experience of discovery by finding out the dynamic between the gun and switch and recognising the pattern of the layout.
+
+![Gun encounter](DocImages/GameScreenshots/Gun.PNG)
 
 ### 1.2. Drama
-What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+**Section 1 - Falling**
+Since this is towards the beginning of the level, I wanted the player to feel excited to start. I included this falling section to give the player a sense of exhilaration and thrill, similar to how a drop tower ride would.
+
+![Falling](DocImages/GameScreenshots/fall.PNG)
+
+**Section 2 - Rest room**
+In the middle of all the intense platforming and encounters with enemies, I wanted to give the player a break. The room provides health packs and is absent of any dangers.
+
+![Rest](DocImages/GameScreenshots/rest.PNG)
 
 ### 1.3. Challenge
-What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+**Section 2 - Optional challenge rooms**
+The player can engage in optional challenge rooms that are more difficult than the other route. Each room is dedicated to challenging the player in both platforming and combat, inviting them to showcase their skills in these aspects.
+
+The first room is dedicated to platforming. In this level, players must jump over obstacles as they ride the moving platforms. Completing this challenge requires players to react quickly and maneuver themselves around the limited space they have.
+![Challenge room 1](DocImages/GameScreenshots/room1.PNG)
+
+The second room requires the player to be good at platforming and combat. In combat, players will need to dodge enemy spitter bullets and accurately hit enemies while navigating the small platforms provided. Completing this challenge requires players to be precise with their movements and gunshots. 
+![Challenge room 2](DocImages/GameScreenshots/room2.PNG)
+
+**Section 3 - Final platforming challenge**
+For Section 3, I really wanted to explore this idea of a level that’s easy to enter but harder to escape. Initially, it’s easy to hop on stationary platforms and get to the other side. However, when the switch at the end is flipped, all those platforms from before will now be moving, making it considerably harder. Completing this challenge requires players to be fast and precise with their movements so that don’t fall into the acid or hit the spikes.
+![Challenge room 3](DocImages/GameScreenshots/room3.PNG)
 
 ### 1.4. Exploration
-How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+**Section 1 - Two directions**
+In the first section, I didn’t want the player to just move in one direction. To get a better sense of exploration, I wanted the player to go back and forth between places and invite the player to explore and take note of distinct landmarks.
+
+I believe the most distinct parts of this section are the parts that gate progression to the next section, Section 2. Which is the trigger door on the left and the acid pool to the right. 
+By gating parts of the section, I invite the player to explore and find out how to get past the trigger door and gate.
+![Gate Progression](DocImages/GameScreenshots/gate.PNG)
+
+**Section 2 - Two paths**
+I wanted this section to be a bit less linear than the first section, which has optional routes. Multiple paths can give players a sense of freedom. When they’re able to make their own choices, they’re more likely to be invested in the outcomes of those choices and the journey to reaching these destinations while exploring.
+
+I placed two routes for the player, one easy and the other challenging. They both require the player to navigate large spaces through platforming, making it engaging to move around and explore.
+| Route without paths | Route with paths |
+| ------------- | ------------- |
+| ![Route 1](DocImages/routes2.png) | ![Route 2](DocImages/routes1.png)  | 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
