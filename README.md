@@ -63,7 +63,7 @@ I placed two routes for the player, one easy and the other challenging. They bot
 
 | Route without paths | Route with paths |
 | ------------- | ------------- |
-| ![Route 1](DocImages/routes2.png) | ![Route 2](DocImages/routes1.png)  | 
+| ![Route 1](DocImages/GameScreenshots/routes2.png) | ![Route 2](DocImages/GameScreenshots/routes1.png)  | 
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
