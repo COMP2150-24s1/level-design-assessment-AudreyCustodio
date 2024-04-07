@@ -172,5 +172,5 @@ I found that testing my design within an actual playable level would give me the
 
 **Aspects to be improved**
 
-I would’ve liked to expand and improve on Section 3 through iterative design, as I believe it’s the least developed in my level of design. To improve it, I think I needed to playtest it more as I feel the current layout is clunky. Playtesting further would’ve allowed me to organise the layout better and potentially set up more encounters and interesting dynamics.
+I would’ve liked to expand and improve on Section 3 through iterative design, as I believe it’s the least developed in my level of design. To improve it, I think I needed to make a dedicated storyboard to it due to the complex execution needed and playtest it more. Playtesting further would’ve allowed me to organise the layout better and potentially set up more encounters and interesting dynamics through experimentation.
 
