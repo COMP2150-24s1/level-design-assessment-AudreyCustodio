@@ -67,7 +67,7 @@ By gating parts of the section, I invite the player to explore as they try to fi
 
 I wanted this section to be a bit less linear than the first section, by giving it optional routes. Multiple paths can give players a sense of freedom. When they’re able to make their own choices, they’re more likely to be invested in the outcomes of those choices and the journey to reaching these destinations while exploring.
 
-I placed two routes for the player, one easy and the other challenging. They both require the player to navigate large spaces through platforming, making it engaging to move around and explore.
+I placed two routes for the player, one easy and the other challenging. They challenging route requires the player to navigate large spaces through platforming, making it engaging to move around and explore. Taking the easy "elevator" route provides a more relaxing way of navigating a large space, whilst still engaging the player with spitter enemy types on each side.
 
 | Route without paths | Route with paths |
 | ------------- | ------------- |
