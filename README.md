@@ -39,7 +39,7 @@ In the middle of all the intense platforming and encounters with enemies, I want
 
 The player can engage in optional challenge rooms that are more difficult than the other route. Each room is dedicated to challenging the player in both platforming and combat, inviting them to showcase their skills in these aspects.
 
-The first room is dedicated to platforming. In this level, players must jump over obstacles as they ride the moving platforms. Completing this challenge requires players to react quickly and maneuver themselves around the limited space they have.
+The first room is dedicated to platforming. In this level, players must jump over obstacles as they ride the moving platform. Completing this challenge requires players to react quickly and maneuver themselves around the limited space they have.
 
 ![Challenge room 1](DocImages/GameScreenshots/room1.png)
 
