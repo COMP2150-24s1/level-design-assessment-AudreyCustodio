@@ -19,7 +19,11 @@ By again trapping the player in a room, they discover that the gun can be used t
 They may then recognise the placement of the switch being similar to the one in the other room, and then use the gun there.
 Through this level design, I believe the player engages in the experience of discovery by finding out the dynamic between the gun and switch and recognising the pattern of the layout.
 
-![Gun encounter](DocImages/GameScreenshots/Gun.png)
+
+
+| Switch needs to be shot with gun | Gain gun here, shoot switch with gun |
+| ------------- | ------------- |
+| ![Gun needed](DocImages/GameScreenshots/Gun.png) | ![Gun encounter](DocImages/GameScreenshots/Gun2.png)  | 
 
 ### 1.2. Drama
 **Section 1 - Falling**
