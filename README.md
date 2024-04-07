@@ -101,17 +101,24 @@ I placed two routes for the player, one easy and the other challenging. They bot
 ### 2.5 Acid, Moving Platforms, Checkpoints, and Weapon Pickup (Gun)
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
-| ![2.2 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.2 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.2 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
+| ![2.5 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.5 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.5 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
 | The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
 | **Panel 4** | **Panel 5** | **Panel 6** |
-| ![2.2 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.2 Panel 5](DocImages/Storyboards/Slide20.PNG) |
+| ![2.5 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.5 Panel 5](DocImages/Storyboards/Slide20.PNG) |
 | Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
 | **Panel 7** | **Panel 8** |  |
-| ![2.2 Panel 3](DocImages/Storyboards/Slide21.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide22.PNG)   | 
+| ![2.5 Panel 3](DocImages/Storyboards/Slide21.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide22.PNG)   | 
 | They have no choice but to jump into the acid. | They discover they respawn back to the checkpoint. |
 ### 2.6 Keys
-
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.6 Panel 1](DocImages/Storyboards/Slide26.PNG) | ![2.6 Panel 2](DocImages/Storyboards/Slide27.PNG)  | ![2.6 Panel 3](DocImages/Storyboards/Slide28.PNG) 
+| The key will be locked behind a door, implying it has significant value. | To get the key, the player will have to find a switch somewhere to unlock the door. | Only after flipping the switch will they be able to unlock the door and get the key. |
 ### 2.7 Spitters
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.7 Panel 1](DocImages/Storyboards/Slide23.PNG) | ![2.7 Panel 2](DocImages/Storyboards/Slide24.PNG)  | ![2.7 Panel 3](DocImages/Storyboards/Slide25.PNG) 
+| The spitter will be on a high ledge that the player cannot get on. The spitter has a height/range advantage against the player. | The player will have to run past the spitter's bullet and utilise a platform to gain height and shoot the spitter. | The player may also jump and hit the spitter with a staff. |
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
