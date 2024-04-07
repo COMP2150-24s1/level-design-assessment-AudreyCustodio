@@ -9,7 +9,7 @@
 **Section 1 - Staff**
 At the start of the level, I intentionally put the destructible column and chomper next to each other. The purpose of this was so that the player recognises that the staff can be used to destroy things. If it can destroy a destructible column, it would be reasonable to propose that it can also destroy a chomper. By forcing the player to break the destructible column with the staff to progress, it is ensured that they learn this mechanic.
 
-![Staff encounter](DocImages/GameScreenshots/Staff.PNG)
+![Staff encounter](DocImages/GameScreenshots/Staff.png)
 
 **Section 1 - Gun**
 I wanted the player to discover they can use the gun on switches. To achieve this, I presented a problem for the player: a switch that can’t be walked through or jumped to. They will need to find an alternative way of flipping the switch. This is present in two areas of Section 1 and is used to gate progression before the player learns the gun’s mechanics. 
