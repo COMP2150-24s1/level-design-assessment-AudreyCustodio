@@ -106,7 +106,7 @@ I placed two routes for the player, one easy and the other challenging. They cha
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
 | ![2.5 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.5 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.5 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
-| The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
+| The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. | They then jump from the stationary moving platform and onto a ledge. | 
 | **Panel 4** | **Panel 5** | **Panel 6** |
 | ![2.5 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.5 Panel 5](DocImages/Storyboards/Slide20.PNG) |
 | Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
@@ -172,5 +172,5 @@ I found that testing my design within an actual playable level would give me the
 
 **Aspects to be improved**
 
-I would’ve liked to expand and improve on Section 3 through iterative design, as I believe it’s the least developed in my level of design. To improve it, I think I needed to make a dedicated storyboard to it due to the complex execution needed and playtest it more. Playtesting further would’ve allowed me to organise the layout better and potentially set up more encounters and interesting dynamics through experimentation.
+I would’ve liked to expand and improve on Section 3 through iterative design, as I believe it’s the least developed in my level. To improve it, I think I needed to make a dedicated storyboard to it due to the complex execution needed and playtest it more. Playtesting further would’ve allowed me to organise the layout better and potentially set up more encounters and interesting dynamics through experimentation.
 
