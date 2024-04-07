@@ -99,8 +99,18 @@ I placed two routes for the player, one easy and the other challenging. They bot
 | ![2.4 Panel 1](DocImages/Storyboards/Slide12.PNG) | ![2.4 Panel 2](DocImages/Storyboards/Slide13.PNG)  | ![2.4 Panel 3](DocImages/Storyboards/Slide14.PNG) 
 | The player will fall down into spikes. | Once the player is damaged from the spikes, health pick-ups will be nearby. | The player will gain 1 health point by picking it up. |
 ### 2.5 Acid, Moving Platforms, Checkpoints, and Weapon Pickup (Gun)
-
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.2 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.2 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.2 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
+| The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. | They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
+| **Panel 4** | **Panel 5** | **Panel 6** |
+| ![2.2 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.2 Panel 5](DocImages/Storyboards/Slide20.PNG) |
+| Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
+| **Panel 7** | **Panel 8** |  |
+| ![2.2 Panel 3](DocImages/Storyboards/Slide21.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide22.PNG)   | 
+| They have no choice but to jump into the acid. | They discover they respawn back to the checkpoint. |
 ### 2.6 Keys
+
 ### 2.7 Spitters
 
 ## 3. Spatiotemporal Design
