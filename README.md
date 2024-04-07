@@ -97,7 +97,7 @@ I placed two routes for the player, one easy and the other challenging. They bot
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
 | ![2.4 Panel 1](DocImages/Storyboards/Slide12.PNG) | ![2.4 Panel 2](DocImages/Storyboards/Slide13.PNG)  | ![2.4 Panel 3](DocImages/Storyboards/Slide14.PNG) 
-| The player will fall down into spikes. | Once the player is damaged from the spikes, health pick-ups will be nearby. | The player will gain 1 health point by picking it up. |
+| The player will fall down into spikes. | Once the player is damaged from the spikes, health pick-ups will be nearby. They may also have the chance to land on them after being damaged. | The player will gain 1 health point by picking it up. |
 ### 2.5 Acid, Moving Platforms, Checkpoints, and Weapon Pickup (Gun)
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
