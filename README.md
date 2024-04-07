@@ -109,7 +109,7 @@ I placed two routes for the player, one easy and the other challenging. They cha
 | The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. | They then jump from the stationary moving platform and onto a ledge. | 
 | **Panel 4** | **Panel 5** | **Panel 6** |
 | ![2.5 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.5 Panel 5](DocImages/Storyboards/Slide20.PNG) |
-| Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. Since I don't want the player to go back to this part after. I believe it helps point them in the right direction. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
+| Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on since I don't want the player to go back to this part after. I believe it helps point them in the right direction. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
 | **Panel 7** | **Panel 8** |  |
 | ![2.5 Panel 3](DocImages/Storyboards/Slide21.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide22.PNG)   | 
 | They have no choice but to jump into the acid. | They discover they respawn back to the checkpoint. |
