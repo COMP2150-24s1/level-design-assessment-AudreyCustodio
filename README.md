@@ -7,11 +7,13 @@
 ### 1.1. Discovery
 **Discovering the mechanics of the weapons**
 **Section 1 - Staff**
+
 At the start of the level, I intentionally put the destructible column and chomper next to each other. The purpose of this was so that the player recognises that the staff can be used to destroy things. If it can destroy a destructible column, it would be reasonable to propose that it can also destroy a chomper. By forcing the player to break the destructible column with the staff to progress, it is ensured that they learn this mechanic.
 
 ![Staff encounter](DocImages/GameScreenshots/Staff.png)
 
 **Section 1 - Gun**
+
 I wanted the player to discover they can use the gun on switches. To achieve this, I presented a problem for the player: a switch that can’t be walked through or jumped to. They will need to find an alternative way of flipping the switch. This is present in two areas of Section 1 and is used to gate progression before the player learns the gun’s mechanics. 
 By again trapping the player in a room, they discover that the gun can be used to shoot switches. 
 They may then recognise the placement of the switch being similar to the one in the other room, and then use the gun there.
@@ -21,17 +23,20 @@ Through this level design, I believe the player engages in the experience of dis
 
 ### 1.2. Drama
 **Section 1 - Falling**
+
 Since this is towards the beginning of the level, I wanted the player to feel excited to start. I included this falling section to give the player a sense of exhilaration and thrill, similar to how a drop tower ride would.
 
 ![Falling](DocImages/GameScreenshots/fall.png)
 
 **Section 2 - Rest room**
+
 In the middle of all the intense platforming and encounters with enemies, I wanted to give the player a break. The room provides health packs and is absent of any dangers.
 
 ![Rest](DocImages/GameScreenshots/rest.png)
 
 ### 1.3. Challenge
 **Section 2 - Optional challenge rooms**
+
 The player can engage in optional challenge rooms that are more difficult than the other route. Each room is dedicated to challenging the player in both platforming and combat, inviting them to showcase their skills in these aspects.
 
 The first room is dedicated to platforming. In this level, players must jump over obstacles as they ride the moving platforms. Completing this challenge requires players to react quickly and maneuver themselves around the limited space they have.
@@ -43,12 +48,14 @@ The second room requires the player to be good at platforming and combat. In com
 ![Challenge room 2](DocImages/GameScreenshots/room2.png)
 
 **Section 3 - Final platforming challenge**
+
 For Section 3, I really wanted to explore this idea of a level that’s easy to enter but harder to escape. Initially, it’s easy to hop on stationary platforms and get to the other side. However, when the switch at the end is flipped, all those platforms from before will now be moving, making it considerably harder. Completing this challenge requires players to be fast and precise with their movements so that don’t fall into the acid or hit the spikes.
 
 ![Challenge room 3](DocImages/GameScreenshots/room3.png)
 
 ### 1.4. Exploration
 **Section 1 - Two directions**
+
 In the first section, I didn’t want the player to just move in one direction. To get a better sense of exploration, I wanted the player to go back and forth between places and invite the player to explore and take note of distinct landmarks.
 
 I believe the most distinct parts of this section are the parts that gate progression to the next section, Section 2. Which is the trigger door on the left and the acid pool to the right. 
@@ -57,6 +64,7 @@ By gating parts of the section, I invite the player to explore and find out how 
 ![Gate Progression](DocImages/GameScreenshots/gate.png)
 
 **Section 2 - Two paths**
+
 I wanted this section to be a bit less linear than the first section, which has optional routes. Multiple paths can give players a sense of freedom. When they’re able to make their own choices, they’re more likely to be invested in the outcomes of those choices and the journey to reaching these destinations while exploring.
 
 I placed two routes for the player, one easy and the other challenging. They both require the player to navigate large spaces through platforming, making it engaging to move around and explore.
