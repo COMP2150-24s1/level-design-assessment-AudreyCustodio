@@ -138,6 +138,27 @@ No additional words are necessary for this section (any words should only be wit
 | ![Map 1](DocImages/Maps/grid-level-map.png) | ![Map 2](DocImages/Maps/grid-level-map-plain.png)  | 
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+**Idea generation on paper**
+To start, I put a lot of my ideas on paper to help me work through different concepts and see how the player could navigate these aspects of a level. Once they were all laid out, I began to see how they could be pieced together and flow into one another. 
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+**Initial Level Map**
+While I had initially thought about a left-to-right format for my level, I wanted to try a semi-linear format where the player would have to go in all sorts of directions. This was mainly because I wanted to have a better sense of exploration in my game’s level design. 
+
+![Initial Map](DocImages/Maps/initial-layout.png)
+
+**Rough map sketch**
+Before I made the grid map, I wasn’t quite sure what my rooms were going to look like. I made this rough sketch to record my ideas for layouts, progression, challenges, and direction. I expanded on the initial level map I made, adding in specific features and piecing together the ideas I did on paper.
+
+![Rough Map](DocImages/Maps/level-map.png)
+
+**Grid map**
+While the rough map sketch had given me a sense of how I could lay out features and arrange tiles within the level, I wasn’t sure of its practicality. The annotated level map (grid map) helped me to organise the layout of my level and reflect on the flow of the game. The grid format also allowed me to use this map as a guide and easily translate my design into Unity’s tilemap editor.
+
+**Final Level Design: Design changes made in Unity**
+I found that testing my design within an actual playable level would give me the best understanding of how I could improve the player experience. Mainly because I would be the player, testing the level. The most changes I would make to the level at this stage would be the ceilings of some of my rooms. I underestimated how high the player could jump, and for my initial map design, the player would often hit their head. Due to underestimating the jump, I had to change a lot of the tile layouts and platforms accordingly. 
+
+![Final Map](DocImages/GameScreenshots/final-level.png)
+
+**Aspects to be improved**
+I would’ve liked to expand and improve on Section 3 through iterative design, as I believe it’s the least developed in my level of design. To improve it, I think I needed to playtest it more as I feel the current layout is clunky. Playtesting further would’ve allowed me to organise the layout better and potentially set up more encounters and interesting dynamics.
+
