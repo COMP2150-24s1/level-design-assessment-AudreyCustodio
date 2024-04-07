@@ -97,21 +97,28 @@ I placed two routes for the player, one easy and the other challenging. They bot
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
 | ![2.4 Panel 1](DocImages/Storyboards/Slide12.PNG) | ![2.4 Panel 2](DocImages/Storyboards/Slide13.PNG)  | ![2.4 Panel 3](DocImages/Storyboards/Slide14.PNG) 
-| The player will fall down into spikes. | Once the player is damaged from the spikes, health pick-ups will be nearby. | The player will gain 1 health point by picking it up. |
+| The player will fall down into spikes. | Once the player is damaged from the spikes, health pick-ups will be nearby. They may also have the chance to land on them after being damaged. | The player will gain 1 health point by picking it up. |
 ### 2.5 Acid, Moving Platforms, Checkpoints, and Weapon Pickup (Gun)
 | Panel 1 | Panel 2 | Panel 3 |
 | :------------- | :------------- | :------------- |
-| ![2.2 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.2 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.2 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
+| ![2.5 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.5 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.5 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
 | The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
 | **Panel 4** | **Panel 5** | **Panel 6** |
-| ![2.2 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.2 Panel 5](DocImages/Storyboards/Slide20.PNG) |
+| ![2.5 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.5 Panel 5](DocImages/Storyboards/Slide20.PNG) |
 | Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
 | **Panel 7** | **Panel 8** |  |
-| ![2.2 Panel 3](DocImages/Storyboards/Slide21.PNG) | ![2.2 Panel 4](DocImages/Storyboards/Slide22.PNG)   | 
+| ![2.5 Panel 3](DocImages/Storyboards/Slide21.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide22.PNG)   | 
 | They have no choice but to jump into the acid. | They discover they respawn back to the checkpoint. |
 ### 2.6 Keys
-
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.6 Panel 1](DocImages/Storyboards/Slide26.PNG) | ![2.6 Panel 2](DocImages/Storyboards/Slide27.PNG)  | ![2.6 Panel 3](DocImages/Storyboards/Slide28.PNG) 
+| The key will be locked behind a door, implying it has significant value. | To get the key, the player will have to find a switch somewhere to unlock the door. | Only after flipping the switch will they be able to unlock the door and get the key. |
 ### 2.7 Spitters
+| Panel 1 | Panel 2 | Panel 3 |
+| :------------- | :------------- | :------------- |
+| ![2.7 Panel 1](DocImages/Storyboards/Slide23.PNG) | ![2.7 Panel 2](DocImages/Storyboards/Slide24.PNG)  | ![2.7 Panel 3](DocImages/Storyboards/Slide25.PNG) 
+| The spitter will be on a high ledge that the player cannot get on. The spitter has a height/range advantage against the player. | The player will have to run past the spitter's bullet and utilise a platform to gain height and shoot the spitter. | The player may also jump and hit the spitter with a staff. |
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
@@ -120,13 +127,45 @@ No additional words are necessary for this section (any words should only be wit
  
 ### 3.1. Molecule Diagram
 
-### 3.2. Level Map – Section 1
+![Molecule Diagram](DocImages/Maps/molecule-diagram.PNG)
+*note this isn't representative of the final level design
 
-### 3.3.	Level Map – Section 2
-
-### 3.4.	Level Map – Section 3
+### 3.2. Level Map - Sections 1, 2, and 3 (labelled)
+| Key |  |
+| ------------- | ------------- |
+| ![Map key](DocImages/Maps/key-grid-map.png) |  |
+| **Map with paths** | **Map without paths** |
+| ![Map 1](DocImages/Maps/grid-level-map.png) | ![Map 2](DocImages/Maps/grid-level-map-plain.png)  | 
 
 ## 4. Iterative Design (~400 words)
-Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
+**Idea generation on paper**
+To start, I put a lot of my ideas on paper to help me work through different concepts and see how the player could navigate these aspects of a level. Once they were all laid out, I began to see how they could be pieced together and flow into one another. 
+| Idea 1 | Idea 2 | Idea 3 |
+| :------------- | :------------- | :------------- |
+| ![2.5 Panel 1](DocImages/Storyboards/Slide15.PNG) | ![2.5 Panel 2](DocImages/Storyboards/Slide16.PNG)  | ![2.5 Panel 2](DocImages/Storyboards/Slide17.PNG)  | 
+| The player encounters acid, there is a platform for the to jump onto. | The player goes past a checkpoint and jumps onto the (currently stationary) moving platform. They then jump from the stationary moving platform and onto a ledge. | They continue on. | 
+| **Idea 4** | **Idea 5** | **Idea 6** |
+| ![2.5 Panel 3](DocImages/Storyboards/Slide18.PNG) | ![2.5 Panel 4](DocImages/Storyboards/Slide19.PNG)   | ![2.5 Panel 5](DocImages/Storyboards/Slide20.PNG) |
+| Once they move to the right, they fall onto the switch that activates the moving platform. The moving platform goes into the acid and can no longer be jumped on. | The player picks up the gun and jumps to a ledge closer to the other switch. | They shoot the switch, and the trigger door opens. |
 
-You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+**Initial Level Map**
+While I had initially thought about a left-to-right format for my level, I wanted to try a semi-linear format where the player would have to go in all sorts of directions. This was mainly because I wanted to have a better sense of exploration in my game’s level design. 
+
+![Initial Map](DocImages/Maps/initial-layout.png)
+
+**Rough map sketch**
+Before I made the grid map, I wasn’t quite sure what my rooms were going to look like. I made this rough sketch to record my ideas for layouts, progression, challenges, and direction. I expanded on the initial level map I made, adding in specific features and piecing together the ideas I did on paper.
+
+![Rough Map](DocImages/Maps/level-map.png)
+
+**Grid map**
+While the rough map sketch had given me a sense of how I could lay out features and arrange tiles within the level, I wasn’t sure of its practicality. The annotated level map (grid map) helped me to organise the layout of my level and reflect on the flow of the game. The grid format also allowed me to use this map as a guide and easily translate my design into Unity’s tilemap editor.
+
+**Final Level Design: Design changes made in Unity**
+I found that testing my design within an actual playable level would give me the best understanding of how I could improve the player experience. Mainly because I would be the player, testing the level. The most changes I would make to the level at this stage would be the ceilings of some of my rooms. I underestimated how high the player could jump, and for my initial map design, the player would often hit their head. Due to underestimating the jump, I had to change a lot of the tile layouts and platforms accordingly. 
+
+![Final Map](DocImages/GameScreenshots/final-level.png)
+
+**Aspects to be improved**
+I would’ve liked to expand and improve on Section 3 through iterative design, as I believe it’s the least developed in my level of design. To improve it, I think I needed to playtest it more as I feel the current layout is clunky. Playtesting further would’ve allowed me to organise the layout better and potentially set up more encounters and interesting dynamics.
+
