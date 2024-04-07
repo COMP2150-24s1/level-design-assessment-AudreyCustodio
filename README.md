@@ -124,11 +124,7 @@ I placed two routes for the player, one easy and the other challenging. They cha
 | ![2.7 Panel 1](DocImages/Storyboards/Slide23.PNG) | ![2.7 Panel 2](DocImages/Storyboards/Slide24.PNG)  | ![2.7 Panel 3](DocImages/Storyboards/Slide25.PNG) 
 | The spitter will be on a high ledge that the player cannot get on. The spitter has a height/range advantage against the player. | The player will have to run past the spitter's bullets and utilise a platform to gain height and shoot the spitter. | The player may also jump and hit the spitter with a staff. |
 
-## 3. Spatiotemporal Design
-A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
-
-No additional words are necessary for this section (any words should only be within your images/diagrams).
- 
+## 3. Spatiotemporal Design 
 ### 3.1. Molecule Diagram
 
 ![Molecule Diagram](DocImages/Maps/molecule-diagram.PNG)
